@@ -1,0 +1,19 @@
+Description:
+
+This repository shares the code applied during the Youtube tutorial. The tutorial is part of a Node.js for Beginners Playlist on my channel.
+
+YouTube Tutorial for this repository.
+
+I suggest completing my 8 hour JavaScript course tutorial video if you are new to Javascript.
+
+Academic Honesty
+DO NOT COPY FOR AN ASSIGNMENT - Avoid plagiargism and adhere to the spirit of this Academic Honesty Policy.Description:
+
+This repository shares the code applied during the Youtube tutorial. The tutorial is part of a Node.js for Beginners Playlist on my channel.
+
+YouTube Tutorial for this repository.
+
+I suggest completing my 8 hour JavaScript course tutorial video if you are new to Javascript.
+
+Academic Honesty
+DO NOT COPY FOR AN ASSIGNMENT - Avoid plagiargism and adhere to the spirit of this Academic Honesty Policy.

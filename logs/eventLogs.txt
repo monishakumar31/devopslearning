@@ -1,0 +1,11 @@
+2025-07-10	21:35:17	bf72cd3c-04af-4fc3-9cb3-6c71ade6dcb1	/	GET	reqLog.txt
+2025-07-10	21:35:17	68673b7a-6f8d-4b27-855b-0200e327878e	/css/style.css	GET	reqLog.txt
+2025-07-10	21:35:18	4af05784-3fe2-44f5-9316-296b9812e350	/favicon.ico	GET	reqLog.txt
+2025-07-10	21:35:36	586c8bdd-33aa-459f-b0f8-3692bc5ebc37	/	GET	reqLog.txt
+2025-07-10	21:35:36	364a67d7-17f4-4c2c-89d4-c2c5ea08ef15	/css/style.css	GET	reqLog.txt
+2025-07-10	21:35:46	8a8fe366-04c8-401f-9913-e8c65fc37f84	/old	GET	reqLog.txt
+2025-07-10	21:35:46	b11f7cc5-d005-4592-902c-8766fa0edebb	/css/style.css	GET	reqLog.txt
+2025-07-10	21:36:47	2ecd4d4d-8bab-423e-8312-cb8d84dc3f51	/	GET	reqLog.txt
+2025-07-10	21:36:47	31be8c17-ac5d-44d9-9e96-7409b071f69d	/css/style.css	GET	reqLog.txt
+2025-07-10	22:04:05	15b6f0af-985f-4cbe-afb4-0fcae1dd8e69	/data/data.txt	GET	reqLog.txt
+2025-07-10	22:04:19	16106eae-39f7-4b71-a5b3-070730369c5d	/data/data.json	GET	reqLog.txt
